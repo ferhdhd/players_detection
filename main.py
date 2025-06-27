@@ -1,4 +1,3 @@
-from ultralytics import YOLO
 from video import read_video, save_video
 
 def main():
