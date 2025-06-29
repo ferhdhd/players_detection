@@ -8,7 +8,6 @@ def read_video(path):
         if not ret:
             break
         frames.append(frame)
-        print("oi\n")
     return frames
 
 def save_video(output_frames, output_path):

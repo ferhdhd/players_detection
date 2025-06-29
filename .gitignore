@@ -2,3 +2,6 @@ videos/
 videos_saida/
 models/
 __pycache__/
+stub/
+training/
+players_detection/
