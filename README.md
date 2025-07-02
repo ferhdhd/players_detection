@@ -1,6 +1,4 @@
-Claro, aqui está uma documentação detalhada e didática do seu projeto de detecção de jogadores, escrita em Markdown.
-
-# Documentação do Projeto: Detecção de Jogadores em Vídeos de Futebol
+# Detecção de Jogadores em Vídeos de Futebol
 
 ## Visão Geral do Projeto
 
